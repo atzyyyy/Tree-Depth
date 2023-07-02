@@ -1,0 +1,15 @@
+C:\Users\Fourthram\TreeDepth\TreeDepth\bin\Debug\net7.0\TreeDepth.exe
+C:\Users\Fourthram\TreeDepth\TreeDepth\bin\Debug\net7.0\TreeDepth.deps.json
+C:\Users\Fourthram\TreeDepth\TreeDepth\bin\Debug\net7.0\TreeDepth.runtimeconfig.json
+C:\Users\Fourthram\TreeDepth\TreeDepth\bin\Debug\net7.0\TreeDepth.dll
+C:\Users\Fourthram\TreeDepth\TreeDepth\bin\Debug\net7.0\TreeDepth.pdb
+C:\Users\Fourthram\TreeDepth\TreeDepth\obj\Debug\net7.0\TreeDepth.csproj.AssemblyReference.cache
+C:\Users\Fourthram\TreeDepth\TreeDepth\obj\Debug\net7.0\TreeDepth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fourthram\TreeDepth\TreeDepth\obj\Debug\net7.0\TreeDepth.AssemblyInfoInputs.cache
+C:\Users\Fourthram\TreeDepth\TreeDepth\obj\Debug\net7.0\TreeDepth.AssemblyInfo.cs
+C:\Users\Fourthram\TreeDepth\TreeDepth\obj\Debug\net7.0\TreeDepth.csproj.CoreCompileInputs.cache
+C:\Users\Fourthram\TreeDepth\TreeDepth\obj\Debug\net7.0\TreeDepth.dll
+C:\Users\Fourthram\TreeDepth\TreeDepth\obj\Debug\net7.0\refint\TreeDepth.dll
+C:\Users\Fourthram\TreeDepth\TreeDepth\obj\Debug\net7.0\TreeDepth.pdb
+C:\Users\Fourthram\TreeDepth\TreeDepth\obj\Debug\net7.0\TreeDepth.genruntimeconfig.cache
+C:\Users\Fourthram\TreeDepth\TreeDepth\obj\Debug\net7.0\ref\TreeDepth.dll
